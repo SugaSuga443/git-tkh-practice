@@ -1,1 +1,1 @@
-# git-tkh-practice Hi! I'm Toni! Sleeping is my hobby.
+# git-tkh-practice Hi! I'm Toni! I'm learning web dev. It's hard at times but I've got this! Sleeping is my hobby.
